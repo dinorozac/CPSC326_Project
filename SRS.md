@@ -8,3 +8,16 @@
 
 ### 1.3) Done 
 
+# Thoughts for General UI
+
+#### Dino's Images of Inspiration
+
+##### Example 1 
+
+! [Microsoft Teams Kanban / Planner ] (https://ms-vsts.gallerycdn.vsassets.io/extensions/ms-vsts/vss-services-teams/1.0.11/1533756051713/images/Teams-KanbanBoard.png)
+
+##### Example 2 
+
+! [Generalized Kanban] (https://www.targetprocess.com/content/uploads/2015/05/kanban-for-a-team2.png) 
+
+
